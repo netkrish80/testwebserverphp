@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World!";
+echo "This is my Sample web server";
